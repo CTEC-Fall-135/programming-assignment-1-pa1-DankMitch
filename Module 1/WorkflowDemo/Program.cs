@@ -10,6 +10,7 @@ namespace WorkflowDemo
     {
         static void Main(string[] args)
         {
+            //ASCII art of name, with break lines so full code is shown.
             Console.WriteLine("$$$$$$$\\                      $$\\             " +
                 "$$\\      $$\\ $$\\   $$\\               $$\\                 " +
                 "$$\\ $$\\ \r\n$$  __$$\\                     $$ |            $" +
